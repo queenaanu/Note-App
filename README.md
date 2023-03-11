@@ -1,2 +1,2 @@
 # Note-App
-The app helps create multiple notes at a goal.
+The website helps create multiple notes at a goal.
